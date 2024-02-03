@@ -1,0 +1,2 @@
+# Konkani sentiment analysis corpus
+ 
